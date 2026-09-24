@@ -14,24 +14,6 @@ All activities were performed only on the lab-provided locked PDF files under th
 
 ---
 
-## Repository Structure
-
-```
-├── README.md
-├── W3-PM-FINAL_Password_Cracking_Nelson_Chinedum_Ariwa_B083.pdf
-└── evidences/
-    <img width="1366" height="728" alt="Window - ScreenPal - 3 25 4 (54)" src="https://github.com/user-attachments/assets/a7c8641b-505a-47a9-921d-124fb1f1f99b" />
-
-    ├── 02_johnny_cracked_password1.jpg
-    ├── 03_flag1_pdf1.jpg
-    ├── 04_flag2_pdf2.jpg
-    ├── 05_johnny_1qaz2wsx.jpg
-    ├── 06_flag3_pdf3.jpg
-    ├── 07_nw_hash_calculator.jpg
-    ├── 08_nw_cracked_password1.jpg
-    └── 09_nw_cracked_1qaz2wsx.jpg
-```
-
 ---
 
 ## Results Summary
@@ -54,7 +36,19 @@ All activities were performed only on the lab-provided locked PDF files under th
 
 ---
 
-## Key Takeaways
+## Evidence
+<img width="1366" height="728" alt="Window - ScreenPal - 3 25 4 (54)" src="https://github.com/user-attachments/assets/2eacf6b8-f95e-4d59-9955-e292667c19cc" />
+<img width="1366" height="728" alt="Window - ScreenPal - 3 25 4 (55)" src="https://github.com/user-attachments/assets/0e48df5b-65a4-4dcd-8384-89abc15f982b" />
+<img width="1366" height="728" alt="Window - ScreenPal - 3 25 4 (58)" src="https://github.com/user-attachments/assets/041394d5-b17c-4320-8c6e-f8dd829866af" />
+<img width="1366" height="728" alt="Window - ScreenPal - 3 25 4 (57)" src="https://github.com/user-attachments/assets/76b1396f-6f01-4281-a971-691801b0e10c" />
+<img width="1366" height="728" alt="Window - ScreenPal - 3 25 4 (56)" src="https://github.com/user-attachments/assets/83b482b9-6e7a-4623-a31a-f6a293ecf8df" />
+<img width="1366" height="728" alt="Window - ScreenPal - 3 25 4 (51)" src="https://github.com/user-attachments/assets/2403c251-6e1d-416b-849c-279b0aaf035e" />
+<img width="1366" height="728" alt="Window - ScreenPal - 3 25 4 (50)" src="https://github.com/user-attachments/assets/9670f2c7-4f51-43e7-a439-7a167a43f9cf" />
+<img width="1366" height="728" alt="Window - ScreenPal - 3 25 4 (52)" src="https://github.com/user-attachments/assets/4ec51723-cce8-40fe-808b-80e42d8171d2" />
+
+
+
+ ## Key Takeaways
 
 - Weak / common passwords are cracked extremely quickly with dictionary attacks.
 - Both offline (John the Ripper) and online (Networkwalks) toolchains recovered the same passwords.
